@@ -1,0 +1,3 @@
+<main>
+  <a href="http://freecatphotoapp.com" target="_blank">cat photos</a>
+</main>
